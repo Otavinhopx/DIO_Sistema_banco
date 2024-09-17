@@ -10,7 +10,9 @@ O sistema oferece as seguintes opções no menu:
 1. **Depositar**: Permite ao usuário adicionar uma quantia ao saldo.
 2. **Sacar**: Permite ao usuário realizar saques, respeitando o limite de valor por saque e o número máximo de saques diários.
 3. **Extrato**: Exibe o saldo atual do usuário.
-4. **Sair**: Encerra o programa.
+4. **Criar usuário**: Cria um novo usuário.
+5. **Criar conta**: Cria uma nova conta.
+6. **Sair**: Encerra o programa.
 
 ## Limites do Sistema
 
